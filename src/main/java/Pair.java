@@ -1,3 +1,7 @@
+/**
+ * @author Daniel Ogiela
+ */
+
 import java.util.Random;
 
 

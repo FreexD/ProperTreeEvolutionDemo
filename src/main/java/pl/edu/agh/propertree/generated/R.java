@@ -15,6 +15,7 @@ public class R {
   }
 
   public static class booleans {
+    public static final int debug = 16973825;
   }
 
   public static class strings {
