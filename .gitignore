@@ -65,8 +65,6 @@ fabric.properties
 
 ### Java ###
 # Compiled class file
-*.class
-
 # Log file
 *.log
 
@@ -88,3 +86,4 @@ fabric.properties
 hs_err_pid*
 
 # End of https://www.gitignore.io/api/java,intellij
+target/
